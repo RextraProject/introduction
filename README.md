@@ -4,7 +4,6 @@
 	<p align="center">
 		(Elevate Your College Journey with REXTRA)
 		<br />
-		<a href="#"><strong>How to Use The App »</strong></a>
 	</p>
 </div>
 
