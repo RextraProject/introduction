@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://drive.google.com/file/d/1gW1A9WiMTDLj2J7Dega37hIWzD_eN-U0/view?usp=sharing" width="256" />
+	<img src="https://avatars.githubusercontent.com/u/171216169?s=96&v=4" width="256" />
 	<h3 align="center">REXTRA</h3>
 	<p align="center">
 		(Elevate Your College Journey with REXTRA)
