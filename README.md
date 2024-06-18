@@ -27,6 +27,7 @@ Hi everyone! We are from team ENTS-H123. We consist of 7 people and these are ou
 Empowering Minds: A holistic approach to education and personal development
 
 ## Team Github🌟
+|Path|Github Link|
 |--|--|
 |Machine Learning|https://github.com/RextraProject/RextraProject|
 |Cloud Computing|https://github.com/mizanade/rextra-backend|
