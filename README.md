@@ -29,5 +29,5 @@ Empowering Minds: A holistic approach to education and personal development
 |Path|Github Link|
 |--|--|
 |Machine Learning|https://github.com/RextraProject/RextraProject|
-|Cloud Computing|https://github.com/mizanade/rextra-backend|
+|Cloud Computing|https://github.com/mizanade/rextra-capstone-cc|
 |Mobile Development|https://github.com/portodit/rextra-android|
